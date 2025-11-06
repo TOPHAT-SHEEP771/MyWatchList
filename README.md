@@ -10,5 +10,5 @@ the main screeen of the app where relevent information is shown
 this is the user inputs all relevent information, such as rating and comments.
 <img width="1043" height="872" alt="Screenshot 2025-11-06 120415" src="https://github.com/user-attachments/assets/a882ef16-1161-4653-8367-49e5e460ae7f" />
 <img width="578" height="422" alt="Screenshot 2025-11-06 120516" src="https://github.com/user-attachments/assets/10a5e2bb-61c6-4529-a28e-53da0de38176" />
-helps with the transition from the opening screeen to the main screen
+helps with the transition from the opening screeen to the main screen of the app
 
