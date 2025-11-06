@@ -1,4 +1,4 @@
-##IMAGES OF MY CODE
+IMAGES OF MY CODE
 <img width="1048" height="909" alt="Screenshot 2025-11-06 115847" src="https://github.com/user-attachments/assets/c897e15b-9062-4f61-840a-facab8e1e682" />
 <img width="1219" height="912" alt="Screenshot 2025-11-06 120017" src="https://github.com/user-attachments/assets/0caff0f4-06dd-4bf2-90a1-ba76cfcee76d" /> 
 the code above is to display the list of movies including director, movie category, and rating
